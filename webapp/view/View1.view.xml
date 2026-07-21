@@ -3,5 +3,6 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <Text text='Testing this FIORI app for CTMS'/>
+        <Text text='This is a test for CICD changes and to see if the app is working properly'/>
     </Page>
 </mvc:View>
